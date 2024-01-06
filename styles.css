@@ -1,0 +1,68 @@
+.main{
+   background-image: url('Apartment.jpg');
+   background-repeat: no-repeat;
+   background-size: cover;
+   text-align: center;
+   color: bisque;
+}
+
+.topic{
+  margin-top: 18%;
+}
+
+a{
+   color: aquamarine;
+}
+
+.bill, .year, .month{
+   color: aquamarine;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+button{
+   line-height: 1.5;
+   background: #dbd5341f;
+   /* background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+   background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+   background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+   background-image: -o-linear-gradient(top, #3498db, #2980b9);
+   background-image: linear-gradient(to bottom, #3498db, #2980b9); */
+   -webkit-border-radius: 28;
+   -moz-border-radius: 28;
+   border-radius: 28px;
+   font-family: Arial;
+   color: #ffffff;
+   font-size: 20px;
+   padding: 10px 20px 10px 20px;
+   border: solid #1f628d 2px;
+   text-decoration: none;
+}
+
+/* ------------------------------ DEWA -------------------------------*/
+.dewa{
+   background-image: url(a.Dewa.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   color: bisque;
+}
+
+
+.etisalat{
+   background-image: url(a.Etisalat.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   color: bisque;
+}
+
+.dewabill{
+   color:red;
+   text-decoration: none;
+}
+
+#mojo{
+   text-align: center;
+   background-image: url('MojoAsleepBg.jpg');
+   background-repeat: no-repeat;
+   background-size: cover;
+   
+}
